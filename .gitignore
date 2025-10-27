@@ -1,0 +1,16 @@
+results/*
+data/NUMOSIM/LA/*
+modules/__pycache__/*
+utils/__pycache__/*
+wandb/*
+.vscode/*
+*.pyc
+temp_eval.ipynb
+temp_main.py
+.DS_Store
+data/*
+evaluation.ipynb
+visualization/*
+results/*
+artifacts/*
+ICAD.backup.git/*
