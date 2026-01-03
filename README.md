@@ -1,5 +1,5 @@
 
-[Paper (TBA)], [[Slides](https://docs.google.com/presentation/d/1JeADJNrVLU8D0z4bSgF5WFPUNd8zhFbG/edit?usp=sharing&ouid=118082991536686796649&rtpof=true&sd=true)]
+[[Paper] (https://dl.acm.org/doi/abs/10.1145/3748636.3762774)], [[Slides](https://docs.google.com/presentation/d/1SWRFocADGinYXm8KlCutM6XBdRi7ixCf/edit?usp=sharing&ouid=118082991536686796649&rtpof=true&sd=true)], [[Poster](https://docs.google.com/presentation/d/1rsSfUEnVAO33d_ORSlKkbq3XmaiF16CCl9KSVZ0upG4/edit?usp=sharing)]
 
 # Dataset
 Download NUMOSIM dataset from https://osf.io/sjyfr/ and add the contents to `data/NUMOSIM/`.
